@@ -1,2 +1,3 @@
 # Java-Project
-my first project create in github
+this is my first git repo
+
